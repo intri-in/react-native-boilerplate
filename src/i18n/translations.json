@@ -1,0 +1,15 @@
+{
+    "en" :{
+        "translation": {
+            "app_name": "Sample App",
+            "sign_in": "Sign In"    
+    }
+    },
+    "hi":{
+        "translation": {
+        "app_name": "नमूना ऐप",
+        "sign_in": "साइन इन करें"
+    }
+    }       
+}
+
